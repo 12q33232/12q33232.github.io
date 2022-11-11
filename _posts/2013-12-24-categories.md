@@ -1,10 +1,6 @@
 ---
-title: Categories
-date: 2013-12-24 23:30:09
-categories:
-- Foo
-- Bar
-- Baz
+title: 12q33232的Github博客
+date: 2022-11-11 17:42:09
 ---
 
-This post contains 3 categories. Make sure your theme can display all of the categories.
+这是我的第一篇博客，请多多指教
